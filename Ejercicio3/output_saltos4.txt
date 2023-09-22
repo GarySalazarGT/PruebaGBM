@@ -1,0 +1,13 @@
+F
+======================================================================
+FAIL: test_saltos (__main__.UnitTestSaltos)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "/home/garysalazar/Documents/Universidad/GBM/Ejercicio3/unittest4.py", line 7, in test_saltos
+    self.assertEqual(saltos.min_jumps(10), 9)
+AssertionError: 5 != 9
+
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+FAILED (failures=1)
